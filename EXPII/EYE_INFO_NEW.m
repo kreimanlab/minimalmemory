@@ -7,11 +7,11 @@ function [FIX, sacdur,sacmag,totalx,totaly] = EYE_INFO_NEW(fname,obs)
     global fix2  ep2 valid2
     if obs == 20 
         load(fullfile('annotationInfoMFA','RA2',[ 'S2' '.mat']));
-        load(fullfile('DATA','MAT',[ fname '_' num2str(20) '.mat']));
+        load(fullfile('EYE_DATA','MAT',[ fname '_' num2str(20) '.mat']));
         load(fullfile('EXTRAPOLATE',[ fname '_' num2str(20) '.mat']));
     else
         load(fullfile('annotationInfoMFA','RA2',[ 'S2' '.mat']));
-        load(fullfile('DATA','MAT',[ fname '_' num2str(obs) '.mat']));
+        load(fullfile('EYE_DATA','MAT',[ fname '_' num2str(obs) '.mat']));
         load(fullfile('EXTRAPOLATE',[ fname '_' num2str(obs) '.mat']));
     end
     fix2 = fix;
@@ -21,7 +21,7 @@ function [FIX, sacdur,sacmag,totalx,totaly] = EYE_INFO_NEW(fname,obs)
     load(fullfile('MAT VID DATA',[fname 'MS' num2str(obs) '.mat']));
     load(fullfile('EXTRAPOLATE',[ fname '_' num2str(obs) '.mat']));
     load(fullfile('annotationInfoMFA','RA2',[ fname '.mat']));
-    load(fullfile('DATA','MAT',[ fname '_' num2str(obs) '.mat']));
+    load(fullfile('EYE_DATA','MAT',[ fname '_' num2str(obs) '.mat']));
     [m,~] =size(ResultAnnotation2);    
     
     ResultAnnotation2.index = string(ResultAnnotation2.index);
