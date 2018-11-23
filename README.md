@@ -48,7 +48,7 @@ Run this file and follow throught the code of this file to generate the main fig
 
 ### Extra Notes
 /EXPI/TRAINED MODELS FEATURES/
-⋅⋅1. Unzip the files in [~/EXPI/TRAINED MODELS FEATURES/MIT.zip](~/EXPI/TRAINED_MODELS_FEATURES/MIT.zip)
+⋅⋅1. Unzip the files in [~/EXPI/TRAINED MODELS FEATURES/MIT.zip](~/EXPI/TRAINED MODELS FEATURES/MIT.zip)
 
 ⋅⋅1. Unzip the files in [~/EXPII/TRAINED_MODELS MFA_NEW/TRAINED_MODELS_UNZIP_TO_RUN_CODE.zip](~/EXPII/TRAINED_MODELS_MFA_NEW/TRAINED_MODELS_UNZIP_TO_RUN_CODE.zip) and paste the contents [~/EXPII/TRAINED_MODELS_MFA_NEW/](~/EXPII/TRAINED_MODELS_MFA_NEW/)
 
