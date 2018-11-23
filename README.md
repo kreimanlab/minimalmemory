@@ -49,7 +49,7 @@ Run this file and follow throught the code of this file to generate the main fig
 ### Extra Notes
 ⋅⋅1. Unzip the files in [~/EXPI/TRAINED MODELS FEATURES/MIT.zip](https://github.com/misrapranav/try1/tree/master/EXPI/TRAINED%20MODELS%20FEATURES/)
 
-⋅⋅1. Unzip the files in [~/EXPII/TRAINED_MODELS MFA_NEW/TRAINED_MODELS_UNZIP_TO_RUN_CODE.zip](https://github.com/misrapranav/try1/tree/master/EXPII/TRAINED_MODELS_MFA_NEW/) and paste the contents [~/EXPII/TRAINED_MODELS_MFA_NEW/](https://github.com/misrapranav/try1/tree/master/EXPII/TRAINED_MODELS_MFA_NEW/)
+⋅⋅1. Unzip the files in [~/EXPII/TRAINED_MODELS MFA_NEW/TRAINED_MODELS_UNZIP_TO_RUN_CODE.zip](https://github.com/misrapranav/minimalmemory/tree/master/EXPII/TRAINED_MODELS_MFA_NEW) and paste the contents into [~/EXPII/TRAINED_MODELS_MFA_NEW/](https://github.com/misrapranav/minimalmemory/tree/master/EXPII/TRAINED_MODELS_MFA_NEW)
 
 ⋅⋅1. Figure 5 is the average of the bars in Figure S6. The individual performaces/bars for each subject can be plotted using files ~EXPII/TRAINED_MODELS_MFA_NEW/pred_XX.m
 
