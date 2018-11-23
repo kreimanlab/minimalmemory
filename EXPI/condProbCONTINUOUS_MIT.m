@@ -6,7 +6,7 @@ m = find(strcmp(string(ResultAnnotation.Foiltarget),"foil'"),1,'first')-1 ;
 ResultAnnotation = ResultAnnotation(1:m,:);
 beginningframe = zeros(m,1);
 segnum = zeros(m,1);
-if ~strcmp(fname,'Gillis')
+if ~strcmp(fname,'S2')
     for j = 1:m
         %for targets
         entry = ResultAnnotation(j,:);
