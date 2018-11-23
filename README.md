@@ -36,7 +36,7 @@ These files contain Alexnet-FC7 features of snapshots of 1-second clips shown to
 These files contain the eye movement information in corresponding target clips.
 
 
-### Reproduce Key Figures & Analysis from Paper
+### Figures & Analysis from Paper
 ##### EXPI 
 [~/EXPI/EXPI.m](https://github.com/misrapranav/try1/tree/master/EXPI/EXPI.m)
 Run this file and follow throught the code of this file to generate the main figures in the paper.
@@ -49,7 +49,7 @@ Run this file and follow throught the code of this file to generate the main fig
 ### Extra Notes
 ⋅⋅1. Unzip the files in [~/EXPI/TRAINED_MODELS_FEATURES/MIT.zip](~/EXPI/TRAINED_MODELS_FEATURES/MIT.zip)
 
-⋅⋅1. Unzip the files in [~/EXPII/TRAINED_MODELS_MFA_NEW/TRAINED_MODELS_UNZIP_TO_RUN_CODE.zip](~/EXPII/TRAINED_MODELS_MFA_NEW/TRAINED_MODELS_UNZIP_TO_RUN_CODE.zip) and paste the contents [~/EXPII/TRAINED_MODELS_MFA_NEW/](~/EXPII/TRAINED_MODELS_MFA_NEW/)
+⋅⋅1. Unzip the files in [~/EXPII/TRAINED_MODELS MFA_NEW/TRAINED_MODELS_UNZIP_TO_RUN_CODE.zip](~/EXPII/TRAINED_MODELS_MFA_NEW/TRAINED_MODELS_UNZIP_TO_RUN_CODE.zip) and paste the contents [~/EXPII/TRAINED_MODELS_MFA_NEW/](~/EXPII/TRAINED_MODELS_MFA_NEW/)
 
 ⋅⋅1. Figure 5 is the average of the bars in Figure S6. The individual performaces/bars for each subject can be plotted using files ~EXPII/TRAINED_MODELS_MFA_NEW/pred_XX.m
 
