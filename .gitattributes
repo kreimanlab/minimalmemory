@@ -13,3 +13,7 @@ VIDEOS/EXPII/S4[[:space:]](MS_22)/S4[[:space:]]Target/* filter=lfs diff=lfs merg
 VIDEOS/EXPII/S4[[:space:]](MS_22)/S4[[:space:]]Foils/* filter=lfs diff=lfs merge=lfs -text
 VIDEOS/EXPII/S5[[:space:]](MS_23)/S5[[:space:]]Foils/* filter=lfs diff=lfs merge=lfs -text
 VIDEOS/EXPII/S5[[:space:]](MS_23)/S5[[:space:]]Target/* filter=lfs diff=lfs merge=lfs -text
+VIDEOS/EXPII/S6[[:space:]](MS_24)/S6[[:space:]]Target/* filter=lfs diff=lfs merge=lfs -text
+VIDEOS/EXPII/S6[[:space:]](MS_24)/S6[[:space:]]Foils/* filter=lfs diff=lfs merge=lfs -text
+VIDEOS/EXPII/S7[[:space:]](MS_25)/S7[[:space:]]Foils/* filter=lfs diff=lfs merge=lfs -text
+VIDEOS/EXPII/S7[[:space:]](MS_25)/S7[[:space:]]Target/* filter=lfs diff=lfs merge=lfs -text
