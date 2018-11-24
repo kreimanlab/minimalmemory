@@ -9,6 +9,9 @@ The code and analysis for EXPI is included in the folder [~/EXPI](https://github
 ### Data
 1 second videos clips from the a particular subjects own encoding phase and similar looking foil clips were used. The subject had the task to distinguish whether a clip belonged to his/her own experience or not.
 
+##### VIDEOS
+1 second video clips shown to subjects for EXPI and EXPII are in the folder ~/VIDEOS. The same of those videos are shown below.
+
 ![](FOIL.gif)
 ![](TARGET.gif)
 
