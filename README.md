@@ -1,6 +1,6 @@
 # Minimal memory for Details in Real Life Events
 This repository, to the best of its ability, aims to walk the user to walk through the data and computational analysis for the paper [Minimal memory for details in real life events](https://www.nature.com/articles/s41598-018-33792-2).
-Please download all data from http://klab.tch.harvard.edu/resources/Misraetal_episodicmemroy_2018/alldata.zip
+Please download all data and videos from http://klab.tch.harvard.edu/resources/Misraetal_episodicmemroy_2018/alldata.zip
 
 ### General Approaches
 The study was divided into two memory encoding parts called EXPI (conducted outdoors around MIT campus) and EXPII (conducted indoors inside the Museum of Fine Arts, Boston or the MFA). For details regarding methods, please go through the [paper](https://www.nature.com/articles/s41598-018-33792-2).
