@@ -1,4 +1,4 @@
-# Minimal memory for Details in Real Life Events
+# Minimal Memory for Details in Real Life Events
 This repository, to the best of its ability, aims to walk the user to walk through the data and computational analysis for the paper [Minimal memory for details in real life events](https://www.nature.com/articles/s41598-018-33792-2).
 Please download all data and videos from [this link from our lab](http://klab.tch.harvard.edu/resources/Misraetal_episodicmemroy_2018/minimalmemory.zip).
 
